@@ -1,1 +1,7 @@
 .venv
+
+wandb
+
+.env
+
+__pycache__
